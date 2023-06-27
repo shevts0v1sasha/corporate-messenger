@@ -1,0 +1,9 @@
+.left-bar-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left-bar-item:hover {
+    cursor: pointer;
+    background-color: #f6f6f6;
+}
